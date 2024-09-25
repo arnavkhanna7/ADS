@@ -1,0 +1,4 @@
+﻿  Tree.cpp
+C:\Users\Arnav\OneDrive - Fachhochschule Aachen\ADS hochladen\ADS-praktika\ADS_P3_Vorlage\Tree.cpp(250,18): warning C4804: '>': unsafe use of type 'bool' in operation
+C:\Users\Arnav\OneDrive - Fachhochschule Aachen\ADS hochladen\ADS-praktika\ADS_P3_Vorlage\Tree.cpp(316,21): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  ADS_P3_Vorlage.vcxproj -> C:\Users\Arnav\OneDrive - Fachhochschule Aachen\ADS hochladen\ADS-praktika\ADS_P3_Vorlage\x64\Debug\ADS_P3_Vorlage.exe
